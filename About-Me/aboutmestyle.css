@@ -1,0 +1,42 @@
+#header{
+    background-color: rgb(206, 83, 79);
+   font-size: 40px;
+   color: white;
+   text-align:  center;
+   padding: 20px;
+   margin: 10px;
+}
+body {
+   background-color: rgb(155, 151, 151);
+    background-image: url(https://www.hdwallpapers.in/walls/colorful_flowers__sky-normal5.4.jpg);
+   background-repeat: no-repeat;
+   background-size: 1500px 1000px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #bb7776;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 115px 20px 115px;
+    margin: 
+}
+li a:hover {
+    background-color: #000000;
+}
+.active {
+    background-color: #000000;
+}

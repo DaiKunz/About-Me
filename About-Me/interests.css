@@ -1,0 +1,14 @@
+#header2{
+    background-color: rgb(206, 83, 79);
+   font-size: 40px;
+   color: white;
+   text-align:  center;
+   padding: 40px;
+   margin: 10px;
+}
+body {
+    background-color: rgb(155, 151, 151);
+    background-image: url(ttps://www.hdwallpapers.in/walls/colorful_flowers__sky-normal5.4.jpg);
+   background-repeat: no-repeat;
+   background-size: 1500px 1000px;
+}

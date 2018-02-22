@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css"> 
+</head>
+<body>
+<p> Was up </p>
+<button onClick="Change()">click me</button>
+<p id="demo"> </p>
+<script src="app.js">
+function Change() {
+ var txt;
+  if (confirm("Pressed a Button") == true) {
+  txt ="You pressed the button";
+  } else {
+  txt = "You didn't press the button";
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
+ </script>
+</body>
+</html>
